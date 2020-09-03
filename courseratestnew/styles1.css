@@ -1,0 +1,15 @@
+.row{
+	margin-bottom: 3px;
+}
+
+
+.row div{
+	background-color: brown;
+	border: 1px solid black;
+}
+
+.highlight{
+	background-color: grey;
+	border: 2px solid black;
+	margin-bottom: 5px;
+}
